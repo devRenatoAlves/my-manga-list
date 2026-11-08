@@ -29,7 +29,7 @@ Confira o projeto em funcionamento no YouTube:
 * **Documentação Swagger:** Documentação interativa gerada automaticamente, permitindo testar os endpoints diretamente pelo navegador.
 * **Validação de Dados:** Regras de validação robustas no lado do servidor (Server-Side Validation) para garantir a integridade dos dados.
 
-## Stack Tecnológico
+## Stack
 
 Este projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
